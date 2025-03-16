@@ -89,15 +89,15 @@ Response Example:
 
 ## ScreenshotS
 
-Flask API Running	               included
+Flask API Running	                            included
 
-Frontend Page                      included
+Frontend Page                                   included
 
-Terminal Logs (API Requests)       included
+Terminal Logs (API Requests)                    included
 
-Prediction Results(Web & Postman)  included
+Prediction Results(Web & Postman)               included
 
-GitHub Repository                  included
+GitHub Repository                               included
 
 
 ##  Contribution & Author
