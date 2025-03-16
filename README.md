@@ -1,5 +1,3 @@
-# Fish_Market_Prediction
-
 #  Fish Market Prediction (ML Model Deployment with Flask)
 
 ##  Project Overview
@@ -42,13 +40,13 @@ http://127.0.0.1:5000/(http://127.0.0.1:5000/)
 
 ## Usage Guide
 
-### 1. Web-Based Prediction
+###  Web-Based Prediction
 
 - Open [**http://127.0.0.1:5000/**](http://127.0.0.1:5000/) in a web browser.
 - Enter fish measurements (**Length, Height, Width**).
 - Click **Predict** to see the estimated **species**.
 
-###  2. API Testing with Postman or cURL
+###  API Testing with Postman or cURL
 
 Send a **POST request** to `http://127.0.0.1:5000/predict` with the following JSON data:
 
