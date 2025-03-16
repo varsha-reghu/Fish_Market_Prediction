@@ -106,7 +106,6 @@ Feel free to contribute! Fork the repository, create an issue, or submit a **Pul
  GitHub Repository: [Your GitHub Repo Link Here](https://github.com/varsha-reghu/Fish_Market_Prediction)
 
  Author: Varsha Reghu 
- 
  Date: 16TH March 2025  
 
 

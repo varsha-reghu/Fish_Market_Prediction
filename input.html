@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Fish Market Prediction</title>
+</head>
+<body>
+    <h2>Enter Fish Measurements</h2>
+    <form action="/predict" method="post">
+        <label>Weight:</label><input type="text" name="Weight"><br> <!-- Added missing feature -->
+        <label>Length1:</label><input type="text" name="Length1"><br>
+        <label>Length2:</label><input type="text" name="Length2"><br>
+        <label>Length3:</label><input type="text" name="Length3"><br>
+        <label>Height:</label><input type="text" name="Height"><br>
+        <label>Width:</label><input type="text" name="Width"><br>
+        <button type="submit">Predict</button>
+    </form>
+</body>
+</html>
