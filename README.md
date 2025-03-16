@@ -9,13 +9,19 @@ This project is a **Machine Learning (ML) model deployment** that predicts the *
 Fish_Market_Prediction/
 
 ├── Fish_Market_ML_Model.ipynb  # saved python model(MODEL TRAINING)
+
 ├── Fish_dataset.pkl            # Saved ML Model
+
 ├── label_encoder.pkl           # Label Encoding File
+
 ├── app.py                      # Flask API (Backend)
+
 ├── templates/
 │   ├── input.html              # Input Form (Frontend)
 │   ├── result.html             # Prediction Output Page
+
 ├── Fish.csv                    # Dataset (Fish Market Data)
+
 ├── README.md                   # Project Documentation
 
 
