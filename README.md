@@ -83,10 +83,14 @@ Response Example:
 
 ## ScreenshotS
 
-Flask API Running	 
-Frontend Page	
-Terminal Logs (API Requests)	 
-Prediction Results (Web & Postman)	 
+Flask API Running	
+
+Frontend Page
+
+Terminal Logs (API Requests)
+
+Prediction Results (Web & Postman)	
+
 GitHub Repository
 
 
