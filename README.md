@@ -7,6 +7,7 @@ This project is a **Machine Learning (ML) model deployment** that predicts the *
 ##  Project Structure
 
 Fish_Market_Prediction/
+
 ├── Fish_Market_ML_Model.ipynb  # saved python model(MODEL TRAINING)
 ├── Fish_dataset.pkl            # Saved ML Model
 ├── label_encoder.pkl           # Label Encoding File
